@@ -3,7 +3,7 @@
 <p align='center'>
   <a href="https://twitter.com/eupolemo">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/eup%C3%B3lemo-holanda-de-castro-173b8a5/">
+  <a href="https://www.linkedin.com/in/eupolemo">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
